@@ -1,0 +1,40 @@
+Jenny’s Version Control Lesson 1 Reflections
+
+1) How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It was helpful because it pointed out any misspellings as well as any formatting differences.
+
+2) How could having easy access to the entire history of a file make you a more efficient
+programmer in the long term?
+
+You won't have to rewrite any programming lines from previous versions.  Instead, you can just pull
+them up from the revision history.
+
+3) What do you think are the pros and cons of manually choosing when to create a commit, like you do
+in Git, vs having versions automatically saved, like Google Docs does?
+
+Manually committing to a change lends itself to logical commits, that happen when a logical change
+occurs in your code.  Manually committing also runs the risk of forgetting to commit to a change.
+With automatic saving, you do not have to remember to save different versions, but they don't
+happen at any logical point.
+
+4) Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
+
+Some version control systems allow saving multiple files in one commit because it is working with a
+system, such as coding, that commonly utilizes multiple files that are related for one project.
+
+5) How can you use the commands git log and git diff to view the history of files?
+
+Git log will show what files were changed and how many changes were made.  Git diff
+will show the actual lines for comparison, so that you can see the details of what changes
+were made.
+
+6) How might using version control make you more confident to make changes that could break something?
+
+You can make all kinds of changes, large and small, without worrying about not being able to revert
+to a version where the program wasn't buggy.
+
+7) Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to try using it for different versions of the next project, the portfolio site.
