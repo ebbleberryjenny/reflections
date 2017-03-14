@@ -23,3 +23,9 @@ still keep the original copy.
 
 It is useful if you want to work on the remote without internet access, or if you
 want to make changes independently of someone else working on the same repository.
+
+5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborating would require a lot more explanation and manual data entry without git and github.  However,
+resolving conflicts might be easier, especially if its complex, as you would have to talk with
+your collaborator directly, which might be easier than explaining in writing or via commits.
