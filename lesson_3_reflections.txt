@@ -18,3 +18,8 @@ Branches are changes to a repository that can be found either on GitHub or local
 are used if you would like to change someone else's work; Clones are useful if you want an exact
 copy of your own work.  Branches are used to make experimental changes in a repository, but
 still keep the original copy.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is useful if you want to work on the remote without internet access, or if you
+want to make changes independently of someone else working on the same repository.
