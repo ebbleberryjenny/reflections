@@ -8,3 +8,13 @@ stay up-to-date with your remote repository?
 
 You would want to pull changes manually in order to make sure that the changes you are
 bringing into your local computer are ones that you want to make.
+
+3) Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+Forks are used to make copies of another person's work on GitHub that you would like
+to make changes to.  Clones are exact copies of a repository, on your local computer.
+Branches are changes to a repository that can be found either on GitHub or locally.  Forks
+are used if you would like to change someone else's work; Clones are useful if you want an exact
+copy of your own work.  Branches are used to make experimental changes in a repository, but
+still keep the original copy.
