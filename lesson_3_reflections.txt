@@ -29,3 +29,12 @@ want to make changes independently of someone else working on the same repositor
 Collaborating would require a lot more explanation and manual data entry without git and github.  However,
 resolving conflicts might be easier, especially if its complex, as you would have to talk with
 your collaborator directly, which might be easier than explaining in writing or via commits.
+
+6) When would you want to make changes in a separate branch rather than directly in master?
+What benefits does each approach have?
+
+You would want to make changes in a separate branch if you think your collaborator might need to
+take a look at your changes, or if you both need to agree.  Additionally, if both of you are
+making changes, it might make sense for each person to make their own changes in their
+own branch.  The downside is that these branches will eventually need to be merged.
+The benefit is that it will be easy to track each person's changes on their own.
